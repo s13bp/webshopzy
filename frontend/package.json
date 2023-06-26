@@ -1,6 +1,6 @@
 {
   "name": "frontend",
-  "proxy": "http://localhost:5000/",
+  "proxy": "https://rocky-shore-01893-bd0a5bc7224d.herokuapp.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
